@@ -1,4 +1,4 @@
-# EasyMapWebsite (Comment accéder à la cate)
+# EasyMapWebsite (Comment accéder à la carte)
 La carte de Manaus, pour acceder à cette carte :
   1. cliquer sur le fichier Manausmap .html
   2. Dans les onglets en haut il y a un bouton "Action" cliquer dessus
